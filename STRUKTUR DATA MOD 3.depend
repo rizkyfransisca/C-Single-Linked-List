@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1581440245 source:d:\kumpulan tugas rizky\struktur data\struktur data mod 3\main.cpp
+	<iostream>
+	"perpus.h"
+
+1581264029 d:\kumpulan tugas rizky\struktur data\struktur data mod 3\perpus.h
+	<iostream>
+
+1581521980 source:d:\kumpulan tugas rizky\struktur data\struktur data mod 3\library.cpp
+	<iostream>
+	"perpus.h"
+
